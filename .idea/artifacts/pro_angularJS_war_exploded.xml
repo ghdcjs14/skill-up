@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pro-angularJS:war exploded">
+    <output-path>$PROJECT_DIR$/pro-angularJS/web</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pro-angularJS/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pro-angularJS" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
